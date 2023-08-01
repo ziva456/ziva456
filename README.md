@@ -3,6 +3,7 @@
 - ⚡ 최근 알고리즘과 자료구조를 공부하고있습니다.
 - 🔭 아래는 간단한 프로젝트 구성도입니다.
 
+![image](https://github.com/ziva456/ziva456/assets/40132457/53540ede-c512-4356-a75f-51e5a7ca4420)
 
 <!--
 **ziva456/ziva456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
