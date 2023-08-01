@@ -1,6 +1,8 @@
 ### 백앤드 개발자의 테스트 저장소 입니다 ✨
 
 - ⚡ 최근 알고리즘과 자료구조를 공부하고있습니다.
+- 🔭 아래는 간단한 프로젝트 구성도입니다.
+
 
 <!--
 **ziva456/ziva456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
