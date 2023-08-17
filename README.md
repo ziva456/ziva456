@@ -5,7 +5,7 @@
   - Spring Scurity 적용
   - 사용자 계정 Role 규칙 적용
   - jwt토큰 인증방식 적용
-
+  - kafka Topic 전송 로직 적용
 
 
 <!--
